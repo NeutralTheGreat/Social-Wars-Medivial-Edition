@@ -8517,7 +8517,7 @@
             "cost_type": null,
             "costs": "{\"w\":60}",
             "xp": "6",
-            "display_order": "-70",
+            "display_order": "0",
             "activation": "0",
             "inventory_ids": "null",
             "expiration": "0",
@@ -24572,7 +24572,7 @@
         {
             "id": "1061",
             "in_store": "0",
-            "name": "GunBot",
+            "name": "Red Bahamut dragon",
             "type": "u",
             "cost": "0",
             "cost_type": null,

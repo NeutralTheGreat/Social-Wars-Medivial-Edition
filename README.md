@@ -6,14 +6,7 @@ This project is dedicated to preserving this Flash game so that it's not lost to
 [![Downloads](https://img.shields.io/github/downloads/AcidCaos/socialwarriors/total?label=downloads%40all)](../../releases/latest)
 [![Discord](https://img.shields.io/discord/984545703558783016?logo=discord&label=Discord&color=blue)](https://discord.gg/zW5gSbQJBw)
 
----
 
-## Releases
-
-| Version | Release date | Source | Download |
-| --- | --- | --- | --- |
-| **alpha 0.02a** | January 27, 2024 | :label: [tag](../../releases/tag/0.02a) | :package: [Bundle](../../releases/download/0.02a/social-warriors_0.02a.zip) |
-| alpha 0.01a | December 23, 2022 | :label: [tag](../../releases/tag/0.01a) | :ticket: [Launcher](../../releases/download/0.01a/social-warriors_0.01a.exe) ([32-bit](../../releases/download/0.01a/social-warriors_0.01a_32bit.exe)) <br> :package: [Bundle](../../releases/download/0.01a/social-warriors_0.01a.zip) ([32-bit](../../releases/download/0.01a/social-warriors_0.01a_32bit.zip)) |
 
 ## Reporting Bugs and Contacting
 

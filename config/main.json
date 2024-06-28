@@ -23116,7 +23116,7 @@
             "defense": "1",
             "life": "100",
             "velocity": "6",
-            "attack_range": "8",
+            "attack_range": "1",
             "attack_interval": "40",
             "new_item": "0",
             "population": "1",

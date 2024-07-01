@@ -6,33 +6,6 @@ This project is dedicated to preserving this Flash game so that it's not lost to
 [![Downloads](https://img.shields.io/github/downloads/AcidCaos/socialwarriors/total?label=downloads%40all)](../../releases/latest)
 [![Discord](https://img.shields.io/discord/984545703558783016?logo=discord&label=Discord&color=blue)](https://discord.gg/zW5gSbQJBw)
 
-
-
-## Reporting Bugs and Contacting
-
-:speech_balloon: Check our [Discord group](https://discord.gg/zW5gSbQJBw)
-
-:paw_prints: The project [Contributors](../../contributors)
-
-## How to Install on Windows
-
-- Download a flash-compatible browser. :flashlight: **Recommended:** [Flash.pm Browser](https://flash.pm/browser/). Alternatives can be found [here](FLASH.md).
-- Download the latest Bundle version from the [Releases](#releases) section.
-- Extract the downloaded zip file to a suitable location.
-
-## How to Play
-
-- Run the *social-warriors* executable.
-- Open your flash browser and navigate to `http://127.0.0.1:5055/`.
-
-:information_source: To play on GNU/Linux check [this page](LINUX.md).
-
-## Tools
-
-:penguin: [Social Wars on GNU/Linux](LINUX.md)
-
-:flashlight: [Flash Continuation](FLASH.md) documentation
-
 ## On archives and accessibility to digital heritage
 
 - [Exemption to PCCPSACT](https://www.federalregister.gov/documents/2018/10/26/2018-23241/exemption-to-prohibition-on-circumvention-of-copyright-protection-systems-for-access-control), exemptions to the provision of the Digital Millennium Copyright Act (“DMCA”). 
